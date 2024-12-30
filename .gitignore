@@ -1,0 +1,38 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias de Node
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de registro
+*.log
+
+# Archivos de compilación
+build/
+dist/
+out/
+*.o
+*.pyc
+
+# IDEs
+.idea/
+*.swp
+*.swo
+
+# Paquetes de Python
+__pycache__/
+
+# Dependencias de otros lenguajes (ejemplos)
+vendor/
+packages/
+
+# Archivos temporales
+*.tmp
+*~
+
+# Archivos de configuración locales
+config/local.php
